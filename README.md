@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Himanshudewangan6973
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Applications using Ruby On Rails + Front-End Web Development using HTML5 & CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Front-End Web Applications (Ruby on Rails, HTML5, CSS, React.js, Node,js)
+- 💞️ I’m looking to collaborate on front-end application projects
+- 📫 You can reach me through mail himanshudewangan6973@gmail.com
 
 <!---
 Himanshudewangan6973/Himanshudewangan6973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
