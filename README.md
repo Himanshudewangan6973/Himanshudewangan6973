@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshudewangan6973
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Front-End Web Applications (Ruby on Rails, HTML5, CSS, React.js, Node,js)
-- 💞️ I’m looking to collaborate on front-end application projects
+- 💞️ I’m looking to collaborate & contribute on web application projects
 - 📫 You can reach me through mail himanshudewangan6973@gmail.com
 
 <!---
